@@ -44,7 +44,7 @@ public class Logger
 
 We see the following error:
 
-![Yellow screen of death](images/yellow-screen-of-death.png)
+![Yellow screen of death](https://raw.githubusercontent.com/kevinkuszyk/async-task-vs-async-void-sample/master/images/yellow-screen-of-death.PNG)
 
 ## The working implementation
 
